@@ -1,0 +1,32 @@
+body {
+    font-size: 25px;
+    color:white;
+    background-color:darkgrey;
+}
+.mydiv {
+    width: 850px;
+    height: 2100px;
+    float: left;
+    background-color:black;
+}
+#banner {
+    background-color:darkgrey;
+    height: 92px;
+    width:80%;
+    margin-top: auto;
+    font-size: 80px;
+    font-family: cursive;
+    display:block;
+    letter-spacing: 6px;
+    float:right;
+}
+.img {
+    width:400px;
+    height:399px;
+    float:left;
+    border:3px solid#1394ce;
+    border-color:cadetblue;
+    border-style:groove;
+    margin-left:5px;
+    margin-top:5px;
+}
